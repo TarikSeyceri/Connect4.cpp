@@ -7,7 +7,7 @@ it was for my third semester project in uni
 
 i was a beginner so please don't judge my programming standards.
 
-i published it to give any sophomore programmer a dose of encouragement, self-trust & programming help to write a game.
+i published it to give any freshman programmer a dose of encouragement, self-trust & programming help to write a game.
 
 i used Dev-C++ IDE for Windows
 
