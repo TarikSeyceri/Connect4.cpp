@@ -19,4 +19,4 @@ C++ IDE for Linux from here (Geany): https://www.geany.org/Download/ThirdPartyPa
 
 C++ IDE for MacOSX from here (XCode): https://developer.apple.com/download/more/
 
-Enjoy.
+Enjoy!
