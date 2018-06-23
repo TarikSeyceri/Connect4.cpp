@@ -1,5 +1,6 @@
 // Tarik Seyceri - 2012
 // CS C++2 Project - Phase(2)
+// email: tarik@seyceri.info
 
 #include <iostream>
 using namespace std;
