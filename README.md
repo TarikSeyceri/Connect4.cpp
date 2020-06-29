@@ -3,6 +3,8 @@
 
 This version is written in C++ Programming Language (MS Console) in 2012,
 
+![alt Preview](https://github.com/TarikSeyceri/Connect4.cpp/blob/master/Connect4.cpp.v2.0_preview.png?raw=true)
+
 it was for my third semester project in uni
 
 i was a beginner so please don't judge my programming standards.
